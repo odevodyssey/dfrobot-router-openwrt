@@ -2,6 +2,7 @@
 OpenWrt SquashFS image for [DFRobot's IoT Router Carrier Board Mini](https://www.dfrobot.com/product-2242.html)
 
 [Video Review](https://youtu.be/cRMeQXKL8Zk)
+
 [DFRobot Carrier Board Wiki](https://wiki.dfrobot.com/Compute_Module_4_IoT_Router_Board_Mini_SKU_DFR0767)
 
 Build based off [OpenWrt 21.02.3](https://github.com/openwrt/openwrt/tree/v21.02.3) (tag v21.02.3)
