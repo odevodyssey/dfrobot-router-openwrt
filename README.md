@@ -1,7 +1,7 @@
 # dfrobot-router-openwrt
 OpenWrt SquashFS image for [DFRobot's IoT Router Carrier Board Mini](https://www.dfrobot.com/product-2242.html)
 
-[Video Review](https://youtu.be/cRMeQXKL8Zk)
+[Video Review](https://youtu.be/o2NTvaRv4Yg)
 
 [DFRobot Carrier Board Wiki](https://wiki.dfrobot.com/Compute_Module_4_IoT_Router_Board_Mini_SKU_DFR0767)
 
